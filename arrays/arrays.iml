@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Best-Time-to-Buy-and-Sell-Stock-II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Contains-Duplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intersection-of-Two-Arrays-II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Move-Zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Plus-One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove-Duplicates-from-Sorted-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotate-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotate-Image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Single-Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two-Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Valid-Sudoku" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
